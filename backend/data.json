@@ -1,0 +1,14 @@
+[
+    {
+        "city" : "Lahore",
+        "date": "2021-12-12T07:12:00.000Z",
+        "teamA": "Lahore Qalandars",
+        "teamB": "Karachi Kings"
+    },
+    {
+        "city" : "Lahore",
+        "date": "2021-12-12T07:12:00.000Z",
+        "teamA": "Multan Sultans",
+        "teamB": "Peshawar Zalmi"
+    }
+]
